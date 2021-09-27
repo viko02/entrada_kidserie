@@ -114,6 +114,22 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
+<name>[B][COLOR aquamarine]Os Jetsons[/COLOR][/B]</name>
+
+<externallink>https://github.com/viko02/jetsons/raw/main/jetsons</externallink>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/z5HkfARjZV56k56oEdoNGed0ifM.jpg</thumbnail>
+
+<fanart>https://www.themoviedb.org/t/p/original/q9CC98q1QtBs0fW609QJK3va9Su.jpg</fanart>
+
+<info>[COLOR aquamarine]Quem lembra dessa família supermoderna que vivia no ano de 2062? Todo mundo queria uma Rosie para ajudar nos trabalhos em casa! [/COLOR]</info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+
 <name>[B][COLOR aquamarine]Snoopy[/COLOR][/B]</name>
 
 <externallink>https://github.com/viko02/snoophy/raw/main/snoophy</externallink>
@@ -123,22 +139,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/o04090TAInK18zXAkp71Duq8Qbx.jpg</fanart>
 
 <info>[COLOR aquamarine]Não tem como deixar o cachorrinho mais fofo das telinhas de fora dessa lista. Reúna a família para conferir as aventuras dos amigos Snoopy, Woodstock e Charlie Brown![/COLOR]</info>
-
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-
-<name>[B][COLOR aquamarine][/COLOR][/B]</name>
-
-<externallink></externallink>
-
-<thumbnail></thumbnail>
-
-<fanart></fanart>
-
-<info>[COLOR aquamarine][/COLOR]</info>
 
 </channel>
 
