@@ -66,6 +66,22 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
+<name>[B][COLOR aquamarine]Cavalo de Fogo[/COLOR][/B]</name>
+
+<externallink>https://github.com/viko02/cavalofogo/raw/main/cavalofogo</externallink>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/4u5HB5IUw41f3tuts3ri0jdd1t3.jpg</thumbnail>
+
+<fanart></fanart>
+
+<info>[COLOR aquamarine]Não dá para esquecer da princesa que tem como melhor amigo um cavalo roxo com a crina vermelha. Os baixinhos precisam conhecer esse desenho! Então organize a sessão pipoca e veja os 13 episódios da animação dos anos 80.[/COLOR]</info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+
 <name>[B][COLOR aquamarine]O Fantástico Mundo de Bobby[/COLOR][/B]</name>
 
 <externallink>https://github.com/viko02/bobh/raw/main/bobh</externallink>
@@ -91,22 +107,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/o04090TAInK18zXAkp71Duq8Qbx.jpg</fanart>
 
 <info>[COLOR aquamarine]Não tem como deixar o cachorrinho mais fofo das telinhas de fora dessa lista. Reúna a família para conferir as aventuras dos amigos Snoopy, Woodstock e Charlie Brown![/COLOR]</info>
-
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-
-<name>[B][COLOR aquamarine]Cavalo de Fogo[/COLOR][/B]</name>
-
-<externallink>https://github.com/viko02/cavalofogo/raw/main/cavalofogo</externallink>
-
-<thumbnail>https://www.themoviedb.org/t/p/original/4u5HB5IUw41f3tuts3ri0jdd1t3.jpg</thumbnail>
-
-<fanart></fanart>
-
-<info>[COLOR aquamarine]Não dá para esquecer da princesa que tem como melhor amigo um cavalo roxo com a crina vermelha. Os baixinhos precisam conhecer esse desenho! Então organize a sessão pipoca e veja os 13 episódios da animação dos anos 80.[/COLOR]</info>
 
 </channel>
 
