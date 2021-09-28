@@ -114,6 +114,22 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
+<name>[B][COLOR aquamarine]Mundo da Lua[/COLOR][/B]</name>
+
+<externallink>https://github.com/viko02/mundolua/raw/main/mundolua</externallink>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/5q5EfaxmbCFQzDYSu7E3lw7RZhi.jpg</thumbnail>
+
+<fanart>https://www.themoviedb.org/t/p/original/lDswYdqQRv4NGp2GSWqWV1CT4x7.jpg</fanart>
+
+<info>[COLOR aquamarine]Alô, Alô, Planeta Terra Chamando! A TV Cultura sempre nos presenteou com ótimos desenhos e séries. E claro que Lucas Silva e Silva não poderia ficar fora desta lista! Quem não gostaria de ter um gravador para contar todas suas histórias?[/COLOR]</info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+
 <name>[B][COLOR aquamarine]O Fantástico Mundo de Bobby[/COLOR][/B]</name>
 
 <externallink>https://github.com/viko02/bobh/raw/main/bobh</externallink>
@@ -171,22 +187,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/jfpX6gVnC4e4pID8XOmyW0FSGHK.jpg</fanart>
 
 <info>[COLOR aquamarine]Quem não ficou na expectativa para a estreia dessa série com alienígenas coloridos e adoráveis? E como esquecer daquele fofíssimo sol que nos dava sorrisos encantadores? [/COLOR]</info>
-
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-
-<name>[B][COLOR aquamarine][/COLOR][/B]</name>
-
-<externallink></externallink>
-
-<thumbnail></thumbnail>
-
-<fanart></fanart>
-
-<info>[COLOR aquamarine][/COLOR]</info>
 
 </channel>
 
