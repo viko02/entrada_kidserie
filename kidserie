@@ -98,6 +98,22 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
+<name>[B][COLOR aquamarine]Caverna do Dragão[/COLOR][/B]</name>
+
+<externallink>https://github.com/viko02/caverna/raw/main/caverna</externallink>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/qLWgJMJdtdCZWZVdQcFsAM5tZ5a.jpg</thumbnail>
+
+<fanart>https://www.themoviedb.org/t/p/original/9DsK7wq8ZTWd7512NQs7x7YE51l.jpg</fanart>
+
+<info>[COLOR aquamarine]Quem não queria se juntar aos seis jovens e também ser transportado para o Reino e ainda ter super-poderes? Esse desenho clássico dos anos 80 foi baseado em um jogo de RPG chamado “Dungeons & Dragons”. [/COLOR]</info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+
 <name>[B][COLOR aquamarine]Doug[/COLOR][/B]</name>
 
 <externallink>https://github.com/viko02/dough/raw/main/dough</externallink>
@@ -203,22 +219,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart></fanart>
 
 <info>[COLOR aquamarine]O programa clássico dos anos 90 misturava ciências, literatura, receitinhas e muita informação de forma leve e divertida. Volta, X-Tudo![/COLOR]</info>
-
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-
-<name>[B][COLOR aquamarine][/COLOR][/B]</name>
-
-<externallink></externallink>
-
-<thumbnail></thumbnail>
-
-<fanart></fanart>
-
-<info>[COLOR aquamarine][/COLOR]</info>
 
 </channel>
 
