@@ -1,4 +1,3 @@
-<channels>
 
 <channel>
 
@@ -147,15 +146,31 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>[B][COLOR aquamarine][/COLOR][/B]</name>
+<name>[B][COLOR aquamarine]Teletubbies[/COLOR][/B]</name>
 
-<externallink></externallink>
+<externallink>https://github.com/viko02/teletube/raw/main/teletube</externallink>
 
-<thumbnail></thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/5QPz0Ddik0Gp32Nq5bTFgsEv9J8.jpg</thumbnail>
 
-<fanart></fanart>
+<fanart>https://www.themoviedb.org/t/p/original/jfpX6gVnC4e4pID8XOmyW0FSGHK.jpg</fanart>
 
-<info>[COLOR aquamarine][/COLOR]</info>
+<info>[COLOR aquamarine]Quem não ficou na expectativa para a estreia dessa série com alienígenas coloridos e adoráveis? E como esquecer daquele fofíssimo sol que nos dava sorrisos encantadores? [/COLOR]</info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+
+<name>[B][COLOR aquamarine]Doug[/COLOR][/B]</name>
+
+<externallink>https://github.com/viko02/dough/raw/main/dough</externallink>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/wje8TypwzatJaazNd1zsb9Tttuj.jpg</thumbnail>
+
+<fanart>https://www.themoviedb.org/t/p/original/vO50DheBtihMhmNhIuZdBtgg36b.jpg</fanart>
+
+<info>[COLOR aquamarine]“Querido diário…”. É assim que começa a maioria dos episódios desse desenho. Doug é um menino de 11 anos que vive aventuras ao lado dos amigos Costelinha (o cachorro de estimação), Skeeter e Patti Maionese e que tem uma imaginação superfértil. E é impossível esquecer de Roger Klotz, o maior inimigo do protagonista![/COLOR]</info>
 
 </channel>
 
@@ -496,21 +511,3 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-
-<name>[B][COLOR aquamarine][/COLOR][/B]</name>
-
-<externallink></externallink>
-
-<thumbnail></thumbnail>
-
-<fanart></fanart>
-
-<info>[COLOR aquamarine][/COLOR]</info>
-
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-</channels>
