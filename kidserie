@@ -194,6 +194,22 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
+<name>[B][COLOR aquamarine]Pokémon[/COLOR][/B]</name>
+
+<externallink>https://github.com/viko02/pokemon/raw/main/pokemon</externallink>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/lP4zwr0F7hWTbAFltfoFTc2AxRG.jpg</thumbnail>
+
+<fanart>https://www.themoviedb.org/t/p/original/y4QjABMUlpwzBl0jlJK9YFE3WoD.jpg</fanart>
+
+<info>[COLOR aaquamarineExplore o mundo de Pokémon com Ash e seu parceiro Pikachu em busca do sonho do menino de ser um mestre Pokémon.[/COLOR]</info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+
 <name>[B][COLOR aquamarine]Snoopy[/COLOR][/B]</name>
 
 <externallink>https://github.com/viko02/snoophy/raw/main/snoophy</externallink>
@@ -235,38 +251,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart></fanart>
 
 <info>[COLOR aquamarine]O programa clássico dos anos 90 misturava ciências, literatura, receitinhas e muita informação de forma leve e divertida. Volta, X-Tudo![/COLOR]</info>
-
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-
-<name>[B][COLOR aquamarine][/COLOR][/B]</name>
-
-<externallink></externallink>
-
-<thumbnail></thumbnail>
-
-<fanart></fanart>
-
-<info>[COLOR aquamarine][/COLOR]</info>
-
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-
-<name>[B][COLOR aquamarine][/COLOR][/B]</name>
-
-<externallink></externallink>
-
-<thumbnail></thumbnail>
-
-<fanart></fanart>
-
-<info>[COLOR aquamarine][/COLOR]</info>
 
 </channel>
 
