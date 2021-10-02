@@ -66,6 +66,22 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
+<name>[B][COLOR aquamarine]As Aventuras de Tintim[/COLOR][/B]</name>
+
+<externallink>https://github.com/viko02/tintim/raw/main/tintim</externallink>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/ehcX3cEnNGo1m7lbRATy9tutPbb.jpg</thumbnail>
+
+<fanart>https://www.themoviedb.org/t/p/original/jGamhLX5qB7HhaQqcte0Cl8Zz3P.jpg</fanart>
+
+<info>[COLOR aquamarine]"As Aventuras de Tintim" é uma série de banda desenhada franco-belga As Aventuras de Tintim, criada por Hergé. Estreou em 1991, teve 39 episódios divididos em três temporadas.[/COLOR]</info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+
 <name>[B][COLOR aquamarine]As Meninas Superpoderosas[/COLOR][/B]</name>
 
 <externallink>https://github.com/viko02/meninapoderosa/raw/main/meninapoderosa</externallink>
@@ -316,22 +332,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart></fanart>
 
 <info>[COLOR aquamarine]O programa clássico dos anos 90 misturava ciências, literatura, receitinhas e muita informação de forma leve e divertida. Volta, X-Tudo![/COLOR]</info>
-
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-
-<name>[B][COLOR aquamarine]As Aventuras de Tintim[/COLOR][/B]</name>
-
-<externallink>https://github.com/viko02/tintim/raw/main/tintim</externallink>
-
-<thumbnail>https://www.themoviedb.org/t/p/original/ehcX3cEnNGo1m7lbRATy9tutPbb.jpg</thumbnail>
-
-<fanart>https://www.themoviedb.org/t/p/original/jGamhLX5qB7HhaQqcte0Cl8Zz3P.jpg</fanart>
-
-<info>[COLOR aquamarine]"As Aventuras de Tintim" é uma série de banda desenhada franco-belga As Aventuras de Tintim, criada por Hergé. Estreou em 1991, teve 39 episódios divididos em três temporadas.[/COLOR]</info>
 
 </channel>
 
